@@ -1,0 +1,255 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg>
+<metadata>
+Created by FontForge 20120731 at Thu Oct 23 06:20:06 2014
+ By Orthosie Webhosting
+Copyright 2014
+</metadata>
+<defs>
+<font id="PlatinMarket" horiz-adv-x="0" >
+  <font-face 
+    font-family="PlatinMarket"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="2 0 0 0 0 0 0 0 0 0"
+    ascent="700"
+    descent="-300"
+    cap-height="391"
+    bbox="25 -9.6125 2768 400"
+    underline-thickness="50"
+    underline-position="-50"
+    unicode-range="U+0020-007E"
+  />
+<missing-glyph horiz-adv-x="2100" 
+ />
+    <glyph glyph-name=".notdef" horiz-adv-x="2100" 
+ />
+    <glyph glyph-name=".null" 
+ />
+    <glyph glyph-name="nonmarkingreturn" horiz-adv-x="333" 
+ />
+    <glyph glyph-name="Space" unicode=" " horiz-adv-x="510" 
+ />
+    <glyph glyph-name="Exclamation mark" unicode="!" 
+ />
+    <glyph glyph-name="Quotation mark" unicode="&#x22;" 
+ />
+    <glyph glyph-name="Number sign,Â Hash tag" unicode="#" 
+ />
+    <glyph glyph-name="Dollar sign" unicode="$" 
+ />
+    <glyph glyph-name="Percent sign" unicode="%" 
+ />
+    <glyph glyph-name="Ampersand" unicode="&#x26;" 
+ />
+    <glyph glyph-name="Apostrophe" unicode="'" 
+ />
+    <glyph glyph-name="Left parenthesis" unicode="(" 
+ />
+    <glyph glyph-name="Right parenthesis" unicode=")" 
+ />
+    <glyph glyph-name="Asterisk" unicode="*" 
+ />
+    <glyph glyph-name="Plus sign" unicode="+" 
+ />
+    <glyph glyph-name="Comma" unicode="," 
+ />
+    <glyph glyph-name="Hyphen-minus" unicode="-" 
+ />
+    <glyph glyph-name="Full stop" unicode="." 
+ />
+    <glyph glyph-name="Slash (Solidus)" unicode="/" 
+ />
+    <glyph glyph-name="Digit Zero" unicode="0" 
+ />
+    <glyph glyph-name="Digit One" unicode="1" 
+ />
+    <glyph glyph-name="Digit Two" unicode="2" 
+ />
+    <glyph glyph-name="Digit Three" unicode="3" 
+ />
+    <glyph glyph-name="Digit Four" unicode="4" 
+ />
+    <glyph glyph-name="Digit Five" unicode="5" 
+ />
+    <glyph glyph-name="Digit Six" unicode="6" 
+ />
+    <glyph glyph-name="Digit Seven" unicode="7" 
+ />
+    <glyph glyph-name="Digit Eight" unicode="8" 
+ />
+    <glyph glyph-name="Digit Nine" unicode="9" 
+ />
+    <glyph glyph-name="Colon" unicode=":" 
+ />
+    <glyph glyph-name="Semicolon" unicode=";" 
+ />
+    <glyph glyph-name="Less-than sign" unicode="&#x3c;" 
+ />
+    <glyph glyph-name="Equal sign" unicode="=" 
+ />
+    <glyph glyph-name="Greater-than sign" unicode="&#x3e;" 
+ />
+    <glyph glyph-name="Question mark" unicode="?" 
+ />
+    <glyph glyph-name="At sign" unicode="@" 
+ />
+    <glyph glyph-name="Latin Capital Letter A" unicode="A" horiz-adv-x="456" 
+d="M326 227q-18 -53 -92 -73q-27 -9 -43.5 -21t-23 -27t-9 -27t-3.5 -32t-3 -32q-2 -16 -4 -24q146 -7 236 66q75 64 60 155q-11 60 -61 112l-6 6l-2 2l-1 1q0 1 -1 1l-1 1q-2 2 -9 8l-1 1q-1 0 -1.5 0.5l-0.5 0.5q-1 1 -3 2l-2 2l-1 1h-0.5t-1.5 1l-1 1l-0.5 0.5l-1 1
+t-1.5 0.5l-0.5 0.5t-1.5 0.5q0 1 -1 1v1h-2l-1 1l-1 1q-1 0 -1 0.5t-1 0.5l-2 2h-1l-1 1h-1q-1 0 -1 1q-1 0 -1.5 0.5t-1 0.5t-0.5 1h-1q-1 0 -1 1h-1q-1 0 -1 1q-1 0 -2 1h-1l-1 1l-1 1h-1l-2 1l-1 1q-1 0 -1.5 0.5t-1.5 0.5l-1.5 0.5l-1.5 0.5q-1 1 -4 2q-1 0 -3 1h-1
+q-1 1 -3 2q-1 0 -4 1v1q-1 0 -4 1q-1 1 -3 2h-1q-2 1 -3 1l-4 2q-63 22 -115 3q27 -4 50 -12q59 -20 92 -61q35 -46 18 -91zM123 361q-39 -7 -58 -30q-19 -25 -5 -55q15 -33 58 -49q43 -17 87 -6q42 10 55 39q12 26 -7 55q-18 25 -56 39q-37 12 -74 7z" />
+    <glyph glyph-name="Latin Capital Letter B" unicode="B" horiz-adv-x="2777" 
+d="M1311 6h-76v352q0 17 12 28q12 13 29 14h79l78 -301l78 301h120v-394h-76v317l-80 -317h-83l-81 317v-317zM1827 159q-15 -7 -45 -15l-26 -6q-20 -5 -29 -14q-8 -14 -8 -25q0 -17 10 -28q10 -8 29 -8q32 0 50.5 18t18.5 50v28zM1883 54q-15 -25 -38 -36q-25 -13 -51 -15
+q-28 -3 -47 -3q-41 0 -72 22t-31 74q0 48 27 68q29 21 72 28h14q9 3 18 4q50 6 50 29q0 17 -18 22q-18 6 -32 6q-16 0 -28.5 -4.5t-18.5 -17.5h-76q4 36 31 58q31 26 88 26q65 0 96 -21q33 -23 33 -64v-104q0 -46 -17 -72zM1912 5v1v147q0 44 13 74t36 49q22 17 51 25t60 8
+h6h5v-81h-26q-33 0 -49 -16t-16 -50v-157h-80zM2171 310h1v-112l97 112h96l-109 -116l110 -188h-96l-56 103q-17 31 -30 27q-12 -5 -12 -14v-42v-73h-80v392h41q16 0 27 -11t11 -26v-52zM2421 189l137 -90h57q-12 -48 -48 -73q-35 -26 -89 -26q-65 0 -101 42q-37 41 -37 118
+q0 74 35 114q37 42 102 42q69 0 106 -41q37 -42 37 -117v-8v-5q0 -5 -1 -8h-198q1 -35 17 -52q14 -18 44 -18q20 0 33 7q3 1 6 4l6 7q2 3 8 8q10 6 23 6l-137 90h117q-3 30 -16 45q-15 16 -43 16q-24 0 -40.5 -15.5t-17.5 -45.5zM2768 66v-60q-34 -2 -82 1q-44 3 -44 56v336
+h41q15 0 26 -11q12 -11 12 -27v-52h46v-16q0 -17 -11 -28q-11 -10 -27 -10h-8v-169q0 -20 23 -20h24zM1206 184v-178h-40q-17 0 -28 10q-10 11 -10 28v156q0 27 -17 40q-16 12 -37 12q-20 0 -36 -12q-16 -13 -16 -40v-194h-80v178q0 78 40 104q41 26 90 29q50 0 92 -26
+q42 -27 42 -107zM848 399h1h41q16 0 27 -11t11 -27v-24h-80v62zM848 310h1h41q16 0 27 -11.5t11 -27.5v-265h-80v304zM835 66v-60q-34 -2 -82 1q-43 3 -43 56v336h41q15 0 26 -11t11 -27v-52h47v-16q0 -17 -11 -28q-11 -10 -28 -10h-8v-169q0 -20 23 -20h24zM622 159
+l19 -141q-24 -13 -51 -15q-28 -3 -47 -3q-41 0 -72 22t-31 74q0 48 27 68q29 21 72 28h14q9 3 18 4q50 6 50 29q0 17 -18 22q-18 6 -32 6q-16 0 -28.5 -4.5t-17.5 -17.5h-77q4 36 32 58q30 26 88 26q64 0 96 -21q32 -23 32 -64v-104q0 -46 -16 -72q-16 -24 -39 -36l-18 141
+q-15 -7 -45 -15l-26 -6q-20 -5 -30 -14q-8 -12 -8 -25q0 -17 11 -28q10 -8 29 -8q32 0 50 18t18 50v28zM352 399h1h41q16 0 27 -11t11 -26v-356h-80v393zM121 330v-113h79q32 0 46 14q15 12 15 43q0 26 -14 42q-16 14 -42 14h-84zM221 146h-100v-140h-81v352q0 17 11 28
+q13 13 30 13h134q62 0 93 -32q32 -32 32 -95q0 -60 -30 -93q-31 -33 -89 -33zM1206 184v-178h-40q-17 0 -28 10q-10 11 -10 28v156q0 27 -17 40q-16 12 -37 12q-20 0 -36 -12q-16 -13 -16 -40v-194h-80v178q0 78 40 104q41 26 90 29q50 0 92 -26q42 -27 42 -107zM848 399h1
+h41q16 0 27 -11t11 -27v-24h-80v62zM848 310h1h41q16 0 27 -11.5t11 -27.5v-265h-80v304zM835 66v-60q-34 -2 -82 1q-43 3 -43 56v336h41q15 0 26 -11t11 -27v-52h47v-16q0 -17 -11 -28q-11 -10 -28 -10h-8v-169q0 -20 23 -20h24zM352 399h1h41q16 0 27 -11t11 -26v-356h-80
+v393z" />
+    <glyph glyph-name="Latin Capital Letter C" unicode="C" horiz-adv-x="1994" 
+d="M837 3v86h16v-40l6 9l23 32h19l-30 -38l31 -50h-16l-26 41l-8 -10v-30h-15zM961 16h1q0 -11 1 -14h-14l-2 7q-7 -8 -19 -8q-9 0 -14 5.5t-5 12.5q0 24 37 24v1q0 10 -13 10q-11 0 -17 -4l-3 10q9 6 22 6q26 0 26 -27v-23zM945 32h2q-23 0 -23 -12q0 -8 9 -8q10 0 12 8v4
+v8zM972 10h1l24 31q6 7 9 10v1h-31v13h50v-10l-24 -30l-9 -11h33v-12h-53v8zM1085 16h2q0 -11 1 -14h-15l-2 7q-6 -8 -18 -8q-10 0 -15 5.5t-5 12.5q0 24 37 24v1q0 10 -13 10q-10 0 -17 -4l-3 10q9 6 22 6q26 0 26 -27v-23zM1070 32h1q-22 0 -22 -12q0 -8 9 -8q10 0 12 8v4
+v8zM1103 46h1q0 13 -1 18h14l1 -9q6 11 20 11q9 0 15.5 -7t6.5 -21v-37h-16v36q0 16 -12 16q-10 0 -12 -9q-1 -1 -1 -5v-37h-16v44zM1237 95v-1v-75v-17h-13l-1 10h-1q-6 -11 -20 -11q-12 0 -20 9t-8 23q0 16 8.5 25t20.5 9q13 0 17 -8v36h17zM1222 38h-1v4q-2 11 -14 11
+q-16 0 -16 -21q0 -20 16 -20q12 0 14 12l0.5 1.5t0.5 2.5v10zM1287 44h1q0 15 -1 21h14v-12q5 13 18 13h3v-15h-4q-12 0 -15 -12v-4v-33h-16v42zM1381 16h1q0 -11 1 -14h-14l-2 7h-1q-6 -8 -18 -8q-9 0 -14 5.5t-5 12.5q0 24 37 24v1q0 10 -13 10q-11 0 -17 -4l-3 10
+q9 6 22 6q26 0 26 -27v-23zM1365 32h1q-22 0 -22 -12q0 -8 9 -8q10 0 12 8v4v8zM1398 46h1v18h14v-9q6 11 20 11q9 0 16 -7t7 -21v-37h-17v36q0 16 -12 16q-9 0 -12 -9v-5v-37h-17v44zM1611 78l16 3v-16h15v-12h-15v-27q0 -12 8 -12h6v-11q-6 -2 -11 -2q-10 0 -14 5
+q-5 6 -5 18v30h-9v12h9v12zM1654 65l18 17q0 -8 -9 -8t-9 8q0 9 9 9t9 -9l-18 -17h16v-64h-16v64zM1733 14l2 -11q-6 -3 -18 -3q-15 0 -23.5 8.5t-8.5 23.5t9 24.5t26 9.5q9 0 15 -3l-3 -12q-5 2 -12 2q-9 0 -14 -5.5t-5 -14.5q0 -10 5.5 -15.5t13.5 -5.5q7 0 13 2zM1794 16
+h2q0 -11 1 -14h-15l-2 7q-7 -8 -19 -8q-9 0 -14.5 5.5t-5.5 12.5q0 24 38 23v2q0 10 -13 10q-10 0 -17 -4l-4 10q10 6 23 6q26 0 26 -27v-23zM1779 32h1q-22 0 -22 -12q0 -8 9 -8t12 8v4v8zM1812 44h1q0 15 -1 21h14v-12q5 13 18 13h3v-15h-4q-12 0 -15 -12v-4v-33h-16v42z
+M1911 28h-42q0 -16 20 -16q9 0 17 2l2 -10q-9 -4 -22 -4q-15 0 -23.5 8.5t-8.5 23.5q0 14 8 24t23 10q14 0 20.5 -9.5t6.5 -21.5q0 -5 -1 -7zM1870 39h27q0 16 -13 16t-14 -16zM1927 78l17 3v-16h15v-12h-16v-27q0 -12 8 -12h7v-11q-7 -2 -12 -2q-9 0 -14 5q-4 6 -4 18v30
+h-9v12h8v12zM904 123v-1v248q0 12 8 20q8 9 20 9h55l55 -211l55 212h85v-278h-54v224l-57 -224h-58l-58 225v-224h-51zM1321 212v18q-11 -5 -31 -10q-18 -3 -19 -3q-14 -4 -20 -11q-6 -8 -6 -17q0 -13 7 -19t21 -6q22 0 35 12.5t13 35.5zM1361 157q-11 -18 -27 -26
+q-18 -9 -36 -10q-17 -2 -33 -2q-28 0 -51 15q-21 16 -21 52q0 34 19 48q21 15 51 19q5 0 9 1t13 2q35 4 35 20q0 12 -13 15q-11 3 -22 3t-20 -3q-8 -2 -13 -11h-55q4 25 23 41q22 18 62 18q45 0 68 -15q23 -16 23 -45v-72q0 -33 -12 -50zM1381 122v104q0 33 9 53t26 34
+q15 12 35 17t43 5h3h4v-56h-19q-24 0 -35 -12q-11 -11 -11 -35v-110h-55zM1564 336v-78l68 79h68l-77 -82l77 -132h-68l-38 72q-11 21 -20 18t-9 -9v-30v-51h-57v276h29q11 0 19 -7.5t8 -18.5v-37zM1740 251l97 -63h40q-9 -33 -34 -51t-63 -18q-45 0 -71 30q-26 28 -26 82
+q0 52 25 81q25 30 71 30q49 0 75 -29q26 -30 26 -83v-6v-3q0 -4 -1 -5h-140q1 -26 12 -37q11 -13 31 -13q15 0 23 6q3 0 4 2l5 4q1 3 5 6q9 4 18 4l-97 63h82q-1 22 -11 32q-10 11 -30 11q-17 0 -28 -11q-12 -10 -13 -32zM1984 166v-44q-21 -1 -58 1q-30 2 -30 39v237h29
+q10 0 18 -7q8 -8 8 -19v-36h33v-11q0 -12 -8 -20q-8 -7 -19 -7h-6v-119q0 -14 16 -14h17zM883 122h1h-29q-12 0 -20 8q-7 8 -7 20v109q0 19 -12 28q-11 9 -25.5 9t-25.5 -9q-12 -9 -12 -28v-137h-56v126q0 55 28 73q28 19 63 20q35 0 65 -18q30 -19 30 -75v-126zM632 356v43
+h29q11 0 18.5 -7.5t7.5 -18.5v-17h-55zM632 123v213h29q11 0 18.5 -7.5t7.5 -18.5v-187h-55zM622 166v-44q-21 -1 -58 1q-30 2 -30 39v237h29q10 0 18 -7q8 -8 8 -19v-36h33v-11q0 -12 -8 -20q-8 -7 -19 -7h-5v-119q0 -14 15 -14h17zM472 230l14 -99q-18 -9 -36 -10
+q-17 -2 -33 -2q-28 0 -51 15q-21 16 -21 52q0 34 19 48q21 15 50 19q6 0 10 1t12 2q36 4 36 20q0 12 -13 15q-11 3 -23 3q-10 0 -20 -3q-8 -2 -12 -11h-55q3 25 23 41q21 18 62 18q45 0 67 -15q23 -16 23 -45v-72q0 -33 -11 -50q-12 -19 -27 -26l-14 99q-11 -5 -31 -10
+l-19 -3q-14 -4 -21 -11q-5 -8 -5 -17q0 -13 7 -19t21 -6q23 0 35.5 12.5t12.5 35.5v18zM282 123v276h29q11 0 19 -7t8 -19v-250h-56zM119 350v-79h55q23 0 32 10q10 8 10 30q0 18 -9 30q-11 9 -30 9h-58zM189 221h-70v-99h-57v248q0 12 8 20q8 9 20 9h94q45 0 66 -23
+q23 -22 23 -66q0 -42 -21 -66q-22 -23 -63 -23zM883 122h1h-29q-12 0 -20 8q-7 8 -7 20v109q0 19 -12 28q-11 9 -25.5 9t-25.5 -9q-12 -9 -12 -28v-137h-56v126q0 55 28 73q28 19 63 20q35 0 65 -18q30 -19 30 -75v-126zM632 356v43h29q11 0 18.5 -7.5t7.5 -18.5v-17h-55z
+M632 123v213h29q11 0 18.5 -7.5t7.5 -18.5v-187h-55zM622 166v-44q-21 -1 -58 1q-30 2 -30 39v237h29q10 0 18 -7q8 -8 8 -19v-36h33v-11q0 -12 -8 -20q-8 -7 -19 -7h-5v-119q0 -14 15 -14h17zM282 123v276h29q11 0 19 -7t8 -19v-250h-56zM1254 65v-64h16v64h-16zM1563 41
+v-11h33v11h-33zM1550 53v-13h-32v-26h36v-13h-53v88h51v-13h-34v-23h32z" />
+    <glyph glyph-name="Latin Capital Letter D" unicode="D" horiz-adv-x="444" 
+d="M312 146q-9 40 -35 48v3q41 13 41 47q0 29 -21 43q-22 16 -68 16q-33 0 -76 -6v-200h46v79h22q36 0 42 -30q9 -42 15 -49h49q-9 19 -15 49zM268 238q0 -29 -46 -29h-22v57q12 2 26 2q42 0 42 -30zM435 200q0 84 -59 142t-144 58q-87 0 -147 -58t-60 -141.5t60 -142
+t146 -58.5q85 0 144.5 58.5t59.5 141.5zM384 199q0 -66 -44 -112.5t-108 -45.5q-66 0 -111 46.5t-45 112.5t44.5 113t108.5 47q67 0 111 -47t44 -114z" />
+    <glyph glyph-name="Latin Capital Letter E" unicode="E" 
+ />
+    <glyph glyph-name="Latin Capital Letter F" unicode="F" 
+ />
+    <glyph glyph-name="Latin Capital Letter G" unicode="G" 
+ />
+    <glyph glyph-name="Latin Capital Letter H" unicode="H" 
+ />
+    <glyph glyph-name="Latin Capital Letter I" unicode="I" 
+ />
+    <glyph glyph-name="Latin Capital Letter J" unicode="J" 
+ />
+    <glyph glyph-name="Latin Capital Letter K" unicode="K" 
+ />
+    <glyph glyph-name="Latin Capital Letter L" unicode="L" 
+ />
+    <glyph glyph-name="Latin Capital Letter M" unicode="M" 
+ />
+    <glyph glyph-name="Latin Capital Letter N" unicode="N" 
+ />
+    <glyph glyph-name="Latin Capital Letter O" unicode="O" 
+ />
+    <glyph glyph-name="Latin Capital Letter P" unicode="P" 
+ />
+    <glyph glyph-name="Latin Capital Letter Q" unicode="Q" 
+ />
+    <glyph glyph-name="Latin Capital Letter R" unicode="R" 
+ />
+    <glyph glyph-name="Latin Capital Letter S" unicode="S" 
+ />
+    <glyph glyph-name="Latin Capital Letter T" unicode="T" 
+ />
+    <glyph glyph-name="Latin Capital Letter U" unicode="U" 
+ />
+    <glyph glyph-name="Latin Capital Letter V" unicode="V" 
+ />
+    <glyph glyph-name="Latin Capital Letter W" unicode="W" 
+ />
+    <glyph glyph-name="Latin Capital Letter X" unicode="X" 
+ />
+    <glyph glyph-name="Latin Capital Letter Y" unicode="Y" 
+ />
+    <glyph glyph-name="Latin Capital Letter Z" unicode="Z" 
+ />
+    <glyph glyph-name="Left Square Bracket" unicode="[" 
+ />
+    <glyph glyph-name="Backslash" unicode="\" 
+ />
+    <glyph glyph-name="Right Square Bracket" unicode="]" 
+ />
+    <glyph glyph-name="Circumflex accent" unicode="^" 
+ />
+    <glyph glyph-name="Low line" unicode="_" 
+ />
+    <glyph glyph-name="Grave accent" unicode="`" 
+ />
+    <glyph glyph-name="Latin Small Letter A" unicode="a" horiz-adv-x="10" 
+ />
+    <glyph glyph-name="Latin Small Letter B" unicode="b" 
+ />
+    <glyph glyph-name="Latin Small Letter C" unicode="c" 
+ />
+    <glyph glyph-name="Latin Small Letter D" unicode="d" 
+ />
+    <glyph glyph-name="Latin Small Letter E" unicode="e" 
+ />
+    <glyph glyph-name="Latin Small Letter F" unicode="f" 
+ />
+    <glyph glyph-name="Latin Small Letter G" unicode="g" 
+ />
+    <glyph glyph-name="Latin Small Letter H" unicode="h" 
+ />
+    <glyph glyph-name="Latin Small Letter I" unicode="i" 
+ />
+    <glyph glyph-name="Latin Small Letter J" unicode="j" horiz-adv-x="10" 
+ />
+    <glyph glyph-name="Latin Small Letter K" unicode="k" 
+ />
+    <glyph glyph-name="Latin Small Letter L" unicode="l" 
+ />
+    <glyph glyph-name="Latin Small Letter M" unicode="m" 
+ />
+    <glyph glyph-name="Latin Small Letter N" unicode="n" 
+ />
+    <glyph glyph-name="Latin Small Letter O" unicode="o" 
+ />
+    <glyph glyph-name="Latin Small Letter P" unicode="p" 
+ />
+    <glyph glyph-name="Latin Small Letter Q" unicode="q" 
+ />
+    <glyph glyph-name="Latin Small Letter R" unicode="r" 
+ />
+    <glyph glyph-name="Latin Small Letter S" unicode="s" 
+ />
+    <glyph glyph-name="Latin Small Letter T" unicode="t" 
+ />
+    <glyph glyph-name="Latin Small Letter U" unicode="u" 
+ />
+    <glyph glyph-name="Latin Small Letter V" unicode="v" 
+ />
+    <glyph glyph-name="Latin Small Letter W" unicode="w" 
+ />
+    <glyph glyph-name="Latin Small Letter X" unicode="x" 
+ />
+    <glyph glyph-name="Latin Small Letter Y" unicode="y" 
+ />
+    <glyph glyph-name="Latin Small Letter Z" unicode="z" 
+ />
+    <glyph glyph-name="Left Curly Bracket" unicode="{" 
+ />
+    <glyph glyph-name="Vertical bar" unicode="|" 
+ />
+    <glyph glyph-name="Right Curly Bracket" unicode="}" 
+ />
+    <glyph glyph-name="Tilde" unicode="~" 
+ />
+  </font>
+</defs></svg>

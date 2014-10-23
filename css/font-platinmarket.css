@@ -1,0 +1,208 @@
+/*!
+ *  Font PlatinMarket 1.0.0 by @burakdogan - http://platinmarket.com - @platinmarket
+ */
+/* FONT PATH
+ * -------------------------- */
+@font-face {
+  font-family: 'PlatinMarket';
+  src: url('../fonts/platinmarket-webfont.eot?v=1.0.0');
+  src: url('../fonts/platinmarket-webfont.eot?#iefix&v=1.0.0') format('embedded-opentype'), url('../fonts/platinmarket-webfont.woff?v=1.0.0') format('woff'), url('../fonts/platinmarket-webfont.ttf?v=1.0.0') format('truetype'), url('../fonts/platinmarket-webfont.svg?v=1.0.0#platinmarketregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.pm {
+  display: inline-block;
+  font: normal normal normal 14px/1 PlatinMarket;
+  font-size: 2em;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* makes the font 33% larger relative to the icon container */
+.pm-lg {
+  font-size: 1.33333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+.pm-2x {
+  font-size: 2em;
+}
+.pm-3x {
+  font-size: 3em;
+}
+.pm-4x {
+  font-size: 4em;
+}
+.pm-5x {
+  font-size: 5em;
+}
+.pm-fw {
+  width: 1.28571429em;
+  text-align: center;
+}
+.pm-ul {
+  padding-left: 0;
+  margin-left: 2.14285714em;
+  list-style-type: none;
+}
+.pm-ul > li {
+  position: relative;
+}
+.pm-li {
+  position: absolute;
+  left: -2.14285714em;
+  width: 2.14285714em;
+  top: 0.14285714em;
+  text-align: center;
+}
+.pm-li.pm-lg {
+  left: -1.85714286em;
+}
+.pm-border {
+  padding: .2em .25em .15em;
+  border: solid 0.08em #eeeeee;
+  border-radius: .1em;
+}
+.pull-right {
+  float: right;
+}
+.pull-left {
+  float: left;
+}
+.fa.pull-left {
+  margin-right: .3em;
+}
+.fa.pull-right {
+  margin-left: .3em;
+}
+.pm-spin {
+  -webkit-animation: fa-spin 2s infinite linear;
+  animation: fa-spin 2s infinite linear;
+}
+@-webkit-keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@keyframes fa-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+.pm-rotate-90 {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.pm-rotate-180 {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2);
+  -webkit-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+.pm-rotate-270 {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+  -webkit-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  transform: rotate(270deg);
+}
+.pm-flip-horizontal {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1);
+  -webkit-transform: scale(-1, 1);
+  -ms-transform: scale(-1, 1);
+  transform: scale(-1, 1);
+}
+.pm-flip-vertical {
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1);
+  -webkit-transform: scale(1, -1);
+  -ms-transform: scale(1, -1);
+  transform: scale(1, -1);
+}
+:root .pm-rotate-90,
+:root .pm-rotate-180,
+:root .pm-rotate-270,
+:root .pm-flip-horizontal,
+:root .pm-flip-vertical {
+  filter: none;
+}
+.pm-stack {
+  position: relative;
+  display: inline-block;
+  width: 2em;
+  height: 2em;
+  line-height: 2em;
+  vertical-align: middle;
+}
+.pm-stack-1x,
+.pm-stack-2x {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+.pm-stack-1x {
+  line-height: inherit;
+}
+.pm-stack-2x {
+  font-size: 2em;
+}
+.pm-inverse {
+  color: #ffffff;
+}
+/* Icons */
+.pm-icon:before {
+  content: "A";
+}
+.pm-title:before {
+  content: "B";
+}
+.pm-title-sub:before {
+  content: "C";
+}
+.pm-trademark:before {
+  content: "D";
+}
+
+/* Sets */
+.pm-icon:before {
+  content: "AB";
+  color: #127FC3;
+}
+.pm-icon::first-letter {
+  color: #F5AC1C;
+  letter-spacing: 0.05em;
+}
+
+.pm-icon-sub:before {
+  content: "AC";
+  color: #127FC3;
+  font-size: 1.3em;
+}
+.pm-icon-sub::first-letter {
+  color: #F5AC1C;
+  letter-spacing: 0.05em;
+  font-size: 0.7em;
+  vertical-align: 0.16em;
+}
+
+.pm-icon-trademark:after {
+  content: "D";
+  font-size: .3em;
+  color: #127FC3;
+  vertical-align: super;
+}
+
+.pm-icon-sub.pm-icon-trademark:after {
+  vertical-align: 1.6em;
+}
