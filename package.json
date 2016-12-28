@@ -1,0 +1,19 @@
+{
+  "name": "font-platinmarket",
+  "version": "1.0.0",
+  "description": "Font logo for platinmarket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlatinMarket/font-platinmarket.git"
+  },
+  "author": "Burak Doğan <bdogan85@gmail.com> (http://platinmarket.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PlatinMarket/font-platinmarket/issues"
+  },
+  "homepage": "https://github.com/PlatinMarket/font-platinmarket#readme"
+}
